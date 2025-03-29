@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cb0d914`](https://github.com/stdlib-js/stdlib/commit/cb0d914e7d8ec63ea70f13120f26f5c444e3e420) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`7ccd9af`](https://github.com/stdlib-js/stdlib/commit/7ccd9afe3cdf6e17b75f9f4f02f145f4d65891de) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4d373af`](https://github.com/stdlib-js/stdlib/commit/4d373afcaab56ccdd16e81455d3709083a68dec2) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
